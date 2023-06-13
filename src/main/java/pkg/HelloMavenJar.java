@@ -1,3 +1,4 @@
+package pkg;
 
 // [console] mvn package
 // [eclipse] Run As -> Maven Build -> Goals:package -> Run
